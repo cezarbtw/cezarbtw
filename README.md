@@ -1,5 +1,4 @@
-## Hello friend,
-eu sou o Abraão Cezar 
+## Hello friend,eu sou o Abraão Cezar 
 
 ![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarbtw&show_icons=true&theme=dracula)
 
