@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 </div>
 
+[![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarbtw)](https://github.com/cezarbtw/github-readme-stats)
+
