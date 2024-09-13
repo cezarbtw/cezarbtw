@@ -16,6 +16,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Cezar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
-[![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarbtw)](https://github.com/cezarbtw/github-readme-stats)
 ![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarbtw&show_icons=true&theme=dracula)
 
