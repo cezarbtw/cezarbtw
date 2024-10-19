@@ -2,7 +2,7 @@
 
 ![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cezarbtw&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarbtw&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarbtw&layout=compact&showicons=true&theme=dracula)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Cezar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
